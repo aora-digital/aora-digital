@@ -89,12 +89,12 @@ If you have an idea — let’s bring it to life together.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AORA-Digitals&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AORA-Digitals&theme=dark&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=aora-digital&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aora-digital&theme=dark&hide_border=false&layout=compact)
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=AORA-Digitals&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=aora-digital&icon=0&color=0)](https://visitcount.itsvg.in)
 
 > ✨ _Crafting Digital Excellence, One Line of Code at a Time._  
-> Proudly built by the **AORA Digitals** team 🚀
+> Proudly built by the **AORA Digital** team 🚀
